@@ -1,4 +1,8 @@
-# awesome-css-animations
+<div align="center">
+<img width="500" height="350" src="https://gitcdn.xyz/repo/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
+</div>
+
+# CSS Animations
 
 - [AniCollection](http://anicollection.github.io/#/) &mdash; collection of copy-paste animations.
 - [Animate.css](https://daneden.github.io/animate.css/) &mdash; Just-add-water CSS animations
